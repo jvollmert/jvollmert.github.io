@@ -1,0 +1,81 @@
+body {
+  background-color: white;
+  color: #404040;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+h1{
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  background-color: #ffcc00;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+h2{
+  color: black;
+  text-align: center;
+}
+
+h3{
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+}
+
+P {
+  margin: 0px 0px 0px 0px;
+  padding: 0px, 0px, 0px, 0px;
+}
+
+h4 span {
+  background-color: lightgreen;
+}
+
+h4{
+  margin-top: 0px;
+}
+
+.blackjust {
+  color: black;
+  text-align: justify;
+  font-style: italic;
+}
+
+li:hover {
+  font-weight: bold;
+  font-size: 18px;
+  color: green;
+}
+
+.italicsblue{
+  color: steelBlue;
+  font-style: italic;
+}
+
+#locationgreen {
+  color: darkgreen;
+  background-color: lightgreen;
+}
+
+#company{
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+img {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+.bold{
+  font-weight: bold;
+  color: green;
+  font-size: 18px;
+}
